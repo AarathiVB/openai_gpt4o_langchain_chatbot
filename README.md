@@ -1,4 +1,4 @@
-# **OpenAI GPT-4o Chatbot with LangChain**
+# **OpenAI GPT-4o Chatbot**
 
 ## **Project Overview**
 This project is a **conversational AI chatbot** built using **OpenAI GPT-4o, LangChain, and Streamlit**. It provides a **real-time chatbot interface** where users can ask questions and receive intelligent responses. The chatbot leverages **LangChain's structured prompt handling, API calls to OpenAI, and session-based chat memory**.
